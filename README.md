@@ -3,5 +3,4 @@ Project 1: Lamport's Logical Clocks
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
-Charles Babbage charlesbab@csu.fullerton.edu
+David Nguyen vietcloudx@csu.fullerton.edu 891362089
