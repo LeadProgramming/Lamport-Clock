@@ -6,7 +6,7 @@ Please visit my project report for more details!
 
 ## Summary
 
-In a distributed system, multiple processes are transmitting or receiving messages at any time. This type of execution is known as asynchronous. Every process has there on clock but there is no global clock to know where these events are happening at any time. To keep track of these events we need to use a logical clock algorithm.
+In a distributed system, multiple processes are transmitting or receiving messages at any time. This type of execution is known as asynchronous. Every process has there own clock but there is no global clock to know where these events are happening at any time. To keep track of these events we need to use a logical clock algorithm.
 
 ## Installation
 
