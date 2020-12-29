@@ -1,4 +1,4 @@
-# CPSC 474 Project 1: Lamport's Logical Clocks
+# Lamport's Logical Clocks
 
 Please visit my project report for more details! 
 
